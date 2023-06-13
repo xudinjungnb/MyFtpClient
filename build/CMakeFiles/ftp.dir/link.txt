@@ -1,0 +1,1 @@
+/usr/bin/cc  -g   CMakeFiles/ftp.dir/src/main.c.o CMakeFiles/ftp.dir/src/NetSocket.c.o CMakeFiles/ftp.dir/src/ftp_client.c.o CMakeFiles/ftp.dir/src/tools.c.o  -o ../bin/ftp -rdynamic -lm -lpthread 

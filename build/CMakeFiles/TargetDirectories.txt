@@ -1,0 +1,3 @@
+/home/xdj/C语言/FtpClient/build/CMakeFiles/edit_cache.dir
+/home/xdj/C语言/FtpClient/build/CMakeFiles/rebuild_cache.dir
+/home/xdj/C语言/FtpClient/build/CMakeFiles/ftp.dir
